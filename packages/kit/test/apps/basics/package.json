@@ -19,7 +19,7 @@
 	"devDependencies": {
 		"@sveltejs/kit": "workspace:^",
 		"@sveltejs/vite-plugin-svelte": "catalog:",
-		"svelte": "^5.35.5",
+		"svelte": "^5.55.7",
 		"svelte-check": "^4.1.1",
 		"test-redirect-importer": "workspace:*",
 		"typescript": "^5.5.4",
